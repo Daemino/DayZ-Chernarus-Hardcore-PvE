@@ -1,0 +1,25 @@
+Mods you will need are:
+- CF
+- Dabs Framewrork
+- InediaStamina
+- VPP Admin Tools
+- MagObfuscation
+- sFramework
+- sGunplay
+- sGunplay_SNAFU
+- SNAFU Weapons
+- MMG Gear
+- MMG Base storage
+- DayZ Expansion:
+  - Core
+  - Book
+  - AI
+  - Chat
+  - Market
+  - Hardline
+  - Personal Storage
+  - Spawn Selection
+- MuchCarKey
+- Code Lock
+- Ear-Plugs
+- Early Winter Map
