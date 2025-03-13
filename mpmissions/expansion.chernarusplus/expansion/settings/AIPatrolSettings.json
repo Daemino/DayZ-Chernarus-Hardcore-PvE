@@ -1,0 +1,1678 @@
+{
+  "m_Version": 22,
+  "Enabled": 1,
+  "DespawnTime": 600,
+  "RespawnTime": 5400,
+  "MinDistRadius": 200,
+  "MaxDistRadius": 600,
+  "DespawnRadius": 600,
+  "AccuracyMin": -1,
+  "AccuracyMax": -1,
+  "ThreatDistanceLimit": -1,
+  "NoiseInvestigationDistanceLimit": -1,
+  "DamageMultiplier": -1,
+  "DamageReceivedMultiplier": -1,
+  "ObjectPatrols": [],
+  "Patrols": [
+    {
+      "Name": "AI-Tier-I-1",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "BanditLoadout",
+      "Units": [],
+      "NumberOfAI": -2,
+      "Behaviour": "ALTERNATE",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.35,
+      "AccuracyMax": 0.41,
+      "ThreatDistanceLimit": 175,
+      "NoiseInvestigationDistanceLimit": 300,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 0,
+      "MaxSpreadRadius": 1,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          11987.125,
+          54.007595,
+          9172.155273
+        ],
+        [
+          11895.441406,
+          54.351971,
+          9072.47168
+        ],
+        [
+          11929.904297,
+          54.034603,
+          9035.985352
+        ],
+        [
+          11972.46582,
+          54.002483,
+          9091.0625
+        ],
+        [
+          11988.980469,
+          54.007793,
+          9141.111328
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-I-2",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "BanditLoadout",
+      "Units": [],
+      "NumberOfAI": -2,
+      "Behaviour": "ALTERNATE",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.35,
+      "AccuracyMax": 0.41,
+      "ThreatDistanceLimit": 180,
+      "NoiseInvestigationDistanceLimit": 300,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 0,
+      "MaxSpreadRadius": 1,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          10522.820313,
+          6.01241,
+          2352.687988
+        ],
+        [
+          10485.397461,
+          6.002499,
+          2392.156738
+        ],
+        [
+          10444.49707,
+          5.996488,
+          2361.374268
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-I-3",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "BanditLoadout",
+      "Units": [],
+      "NumberOfAI": -2,
+      "Behaviour": "HALT",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.35,
+      "AccuracyMax": 0.41,
+      "ThreatDistanceLimit": 200,
+      "NoiseInvestigationDistanceLimit": 300,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 10,
+      "MaxSpreadRadius": 40,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": [
+        [
+          10233.06543,
+          57.690033,
+          4016.500977
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-I-4",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "BanditLoadout",
+      "Units": [],
+      "NumberOfAI": -3,
+      "Behaviour": "ALTERNATE",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.35,
+      "AccuracyMax": 0.41,
+      "ThreatDistanceLimit": 150,
+      "NoiseInvestigationDistanceLimit": 400,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 0,
+      "MaxSpreadRadius": 1,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          7187.108398,
+          31.700289,
+          3029.664063
+        ],
+        [
+          7222.489746,
+          29.072294,
+          3038.485352
+        ],
+        [
+          7250.304688,
+          27.030315,
+          3032.28833
+        ],
+        [
+          7279.683105,
+          26.558569,
+          3041.182373
+        ],
+        [
+          7314.914551,
+          24.069811,
+          3064.062988
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-I-5",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "BanditLoadout",
+      "Units": [],
+      "NumberOfAI": -3,
+      "Behaviour": "ALTERNATE",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.35,
+      "AccuracyMax": 0.41,
+      "ThreatDistanceLimit": 250,
+      "NoiseInvestigationDistanceLimit": 400,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 0,
+      "MaxSpreadRadius": 1,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          4919.254395,
+          9.512425,
+          2522.3125
+        ],
+        [
+          4871.942383,
+          9.366318,
+          2479.909912
+        ],
+        [
+          4943.858398,
+          9.512479,
+          2408.758301
+        ],
+        [
+          4986.745117,
+          9.512495,
+          2444.699707
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-I-6",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "BanditLoadout",
+      "Units": [],
+      "NumberOfAI": -2,
+      "Behaviour": "HALT",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.35,
+      "AccuracyMax": 0.41,
+      "ThreatDistanceLimit": 175,
+      "NoiseInvestigationDistanceLimit": 325,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 10,
+      "MaxSpreadRadius": 25,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": [
+        [
+          5799.847656,
+          93.761635,
+          3088.294189
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-I-7",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "BanditLoadout",
+      "Units": [],
+      "NumberOfAI": -2,
+      "Behaviour": "ALTERNATE",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.35,
+      "AccuracyMax": 0.41,
+      "ThreatDistanceLimit": 300,
+      "NoiseInvestigationDistanceLimit": 500,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 0,
+      "MaxSpreadRadius": 1,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          11918.335938,
+          140.012482,
+          12556.157227
+        ],
+        [
+          11840.415039,
+          140.012405,
+          12589.836914
+        ],
+        [
+          11823.938477,
+          140.009567,
+          12556.404297
+        ],
+        [
+          11904.375,
+          140.012482,
+          12523.498047
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-II-2",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "EastLoadout",
+      "Units": [],
+      "NumberOfAI": -3,
+      "Behaviour": "ALTERNATE",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 3,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.41,
+      "AccuracyMax": 0.48,
+      "ThreatDistanceLimit": 200,
+      "NoiseInvestigationDistanceLimit": 400,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 0,
+      "MaxSpreadRadius": 1,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          10986.541016,
+          220.191483,
+          13371.868164
+        ],
+        [
+          10942.094727,
+          220.123383,
+          13385.224609
+        ],
+        [
+          10931.610352,
+          220.326523,
+          13366.851563
+        ],
+        [
+          10909.947266,
+          220.099564,
+          13375.469727
+        ],
+        [
+          10926.553711,
+          219.559662,
+          13416.792969
+        ],
+        [
+          10990.015625,
+          220.142502,
+          13395.327148
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-II-3",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "RANDOM",
+      "FormationLooseness": 15,
+      "Loadout": "EastLoadout",
+      "Units": [],
+      "NumberOfAI": -2,
+      "Behaviour": "HALT",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.41,
+      "AccuracyMax": 0.48,
+      "ThreatDistanceLimit": 200,
+      "NoiseInvestigationDistanceLimit": 400,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 40,
+      "MaxSpreadRadius": 75,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": [
+        [
+          9555.108398,
+          242.406311,
+          11815.182617
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-II-4",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "RANDOM",
+      "FormationLooseness": 15,
+      "Loadout": "EastLoadout",
+      "Units": [],
+      "NumberOfAI": -2,
+      "Behaviour": "HALT",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.41,
+      "AccuracyMax": 0.48,
+      "ThreatDistanceLimit": 250,
+      "NoiseInvestigationDistanceLimit": 400,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 40,
+      "MaxSpreadRadius": 75,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": [
+        [
+          8505.902344,
+          203.820251,
+          13999.932617
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-II-5",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "RANDOM",
+      "FormationLooseness": 15,
+      "Loadout": "EastLoadout",
+      "Units": [],
+      "NumberOfAI": -2,
+      "Behaviour": "HALT",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.41,
+      "AccuracyMax": 0.48,
+      "ThreatDistanceLimit": 200,
+      "NoiseInvestigationDistanceLimit": 350,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 30,
+      "MaxSpreadRadius": 60,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": [
+        [
+          10436.169922,
+          178.592468,
+          9145.799805
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-II-6",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "RANDOM",
+      "FormationLooseness": 15,
+      "Loadout": "EastLoadout",
+      "Units": [],
+      "NumberOfAI": -3,
+      "Behaviour": "ALTERNATE",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.41,
+      "AccuracyMax": 0.48,
+      "ThreatDistanceLimit": 300,
+      "NoiseInvestigationDistanceLimit": 500,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 0,
+      "MaxSpreadRadius": 1,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          10454.032227,
+          282.317261,
+          5933.256836
+        ],
+        [
+          10455.285156,
+          283.009338,
+          5975.465332
+        ],
+        [
+          10421.839844,
+          283.169739,
+          5978.441895
+        ],
+        [
+          10386.24707,
+          284.276398,
+          5959.330566
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-II-7",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "RANDOM",
+      "FormationLooseness": 15,
+      "Loadout": "EastLoadout",
+      "Units": [],
+      "NumberOfAI": -3,
+      "Behaviour": "HALT",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.41,
+      "AccuracyMax": 0.48,
+      "ThreatDistanceLimit": 175,
+      "NoiseInvestigationDistanceLimit": 400,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 40,
+      "MaxSpreadRadius": 70,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": [
+        [
+          3699.146973,
+          402.012421,
+          5987.297852
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-II-8",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "EastLoadout",
+      "Units": [],
+      "NumberOfAI": -3,
+      "Behaviour": "ALTERNATE",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.41,
+      "AccuracyMax": 0.48,
+      "ThreatDistanceLimit": 200,
+      "NoiseInvestigationDistanceLimit": 400,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 0,
+      "MaxSpreadRadius": 1,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          2077.515869,
+          109.596466,
+          3503.975586
+        ],
+        [
+          2113.710205,
+          95.444656,
+          3410.800537
+        ],
+        [
+          2102.991455,
+          91.311951,
+          3293.474609
+        ],
+        [
+          2181.008301,
+          87.331741,
+          3282.851563
+        ],
+        [
+          2214.504883,
+          87.571907,
+          3249.414551
+        ],
+        [
+          2235.398682,
+          88.495796,
+          3268.629883
+        ],
+        [
+          2191.029785,
+          87.422005,
+          3316.01416
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-II-9",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "EastLoadout",
+      "Units": [],
+      "NumberOfAI": -3,
+      "Behaviour": "HALT",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.41,
+      "AccuracyMax": 0.48,
+      "ThreatDistanceLimit": 250,
+      "NoiseInvestigationDistanceLimit": 400,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 20,
+      "MaxSpreadRadius": 50,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": [
+        [
+          2585.33374,
+          21.742462,
+          1305.420776
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-III-1",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "GorkaLoadout",
+      "Units": [],
+      "NumberOfAI": -4,
+      "Behaviour": "HALT",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.49,
+      "AccuracyMax": 0.6,
+      "ThreatDistanceLimit": 300,
+      "NoiseInvestigationDistanceLimit": 500,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 50,
+      "MaxSpreadRadius": 110,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": [
+        [
+          754.450256,
+          6.122453,
+          1876.175293
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-III-2",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "GorkaLoadout",
+      "Units": [],
+      "NumberOfAI": -3,
+      "Behaviour": "ALTERNATE",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.49,
+      "AccuracyMax": 0.6,
+      "ThreatDistanceLimit": 250,
+      "NoiseInvestigationDistanceLimit": 500,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 0,
+      "MaxSpreadRadius": 1,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          2427.287354,
+          190.419998,
+          5178.382324
+        ],
+        [
+          2441.610352,
+          191.785812,
+          5114.233887
+        ],
+        [
+          2504.598633,
+          193.602417,
+          5042.067383
+        ],
+        [
+          2536.997314,
+          193.750183,
+          5061.241211
+        ],
+        [
+          2522.676025,
+          193.610245,
+          5084.208496
+        ],
+        [
+          2576.494629,
+          193.283615,
+          5130.231934
+        ],
+        [
+          2584.979492,
+          193.570587,
+          5156.583984
+        ],
+        [
+          2555.402588,
+          190.496643,
+          5203.810547
+        ],
+        [
+          2483.276367,
+          190.107986,
+          5184.587891
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-III-3",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "GorkaLoadout",
+      "Units": [],
+      "NumberOfAI": -3,
+      "Behaviour": "HALT",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.49,
+      "AccuracyMax": 0.6,
+      "ThreatDistanceLimit": 300,
+      "NoiseInvestigationDistanceLimit": 500,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 30,
+      "MaxSpreadRadius": 75,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": [
+        [
+          2712.756104,
+          363.894745,
+          6758.623047
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-III-4",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "RANDOM",
+      "FormationLooseness": 15,
+      "Loadout": "GorkaLoadout",
+      "Units": [],
+      "NumberOfAI": -4,
+      "Behaviour": "HALT",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.49,
+      "AccuracyMax": 0.6,
+      "ThreatDistanceLimit": 325,
+      "NoiseInvestigationDistanceLimit": 500,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 30,
+      "MaxSpreadRadius": 75,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": [
+        [
+          1160.251831,
+          185.352478,
+          7242.938965
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-III-5",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "GorkaLoadout",
+      "Units": [],
+      "NumberOfAI": -5,
+      "Behaviour": "ALTERNATE",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.49,
+      "AccuracyMax": 0.6,
+      "ThreatDistanceLimit": 380,
+      "NoiseInvestigationDistanceLimit": 500,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 0,
+      "MaxSpreadRadius": 1,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          4586.363281,
+          318.950653,
+          8245.075195
+        ],
+        [
+          4577.133789,
+          318.083252,
+          8369.890625
+        ],
+        [
+          4540.147461,
+          317.646393,
+          8368.319336
+        ],
+        [
+          4427.978027,
+          313.440125,
+          8274.263672
+        ],
+        [
+          4478.781738,
+          314.234833,
+          8248.672852
+        ],
+        [
+          4578.282715,
+          318.600006,
+          8221.755859
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-III-6",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "GorkaLoadout",
+      "Units": [],
+      "NumberOfAI": -3,
+      "Behaviour": "HALT",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.49,
+      "AccuracyMax": 0.6,
+      "ThreatDistanceLimit": 350,
+      "NoiseInvestigationDistanceLimit": 500,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 25,
+      "MaxSpreadRadius": 50,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": [
+        [
+          6314.587891,
+          305.012238,
+          7815.180664
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-III-7",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "GorkaLoadout",
+      "Units": [],
+      "NumberOfAI": -3,
+      "Behaviour": "LOOP",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.49,
+      "AccuracyMax": 0.6,
+      "ThreatDistanceLimit": 325,
+      "NoiseInvestigationDistanceLimit": 500,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 0,
+      "MaxSpreadRadius": 1,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          4589.257813,
+          339.012451,
+          9540.556641
+        ],
+        [
+          4570.047363,
+          339.012451,
+          9533.035156
+        ],
+        [
+          4540.378418,
+          339.012451,
+          9585.236328
+        ],
+        [
+          4474.468262,
+          339.012421,
+          9551.051758
+        ],
+        [
+          4487.301758,
+          339.012451,
+          9606.235352
+        ],
+        [
+          4422.57666,
+          339.05246,
+          9722.120117
+        ],
+        [
+          4489.17041,
+          339.040009,
+          9759.856445
+        ],
+        [
+          4528.854492,
+          339.066315,
+          9730.077148
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-III-8",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "GorkaLoadout",
+      "Units": [],
+      "NumberOfAI": -3,
+      "Behaviour": "ALTERNATE",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.49,
+      "AccuracyMax": 0.6,
+      "ThreatDistanceLimit": 300,
+      "NoiseInvestigationDistanceLimit": 500,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 0,
+      "MaxSpreadRadius": 1,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          5312.202637,
+          336.936737,
+          9801.459961
+        ],
+        [
+          5372.631348,
+          332.719604,
+          9883.712891
+        ],
+        [
+          5281.210449,
+          318.720978,
+          10011.254883
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-III-9",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "GorkaLoadout",
+      "Units": [],
+      "NumberOfAI": -3,
+      "Behaviour": "LOOP",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.49,
+      "AccuracyMax": 0.6,
+      "ThreatDistanceLimit": 300,
+      "NoiseInvestigationDistanceLimit": 600,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 0,
+      "MaxSpreadRadius": 1,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": [
+        [
+          4234.278809,
+          338.422424,
+          10992.046875
+        ],
+        [
+          4231.761719,
+          338.420074,
+          11040.963867
+        ],
+        [
+          4222.025879,
+          338.422485,
+          11092.689453
+        ],
+        [
+          4191.469727,
+          338.422333,
+          11086.208008
+        ],
+        [
+          4175.387207,
+          338.422363,
+          11094.883789
+        ],
+        [
+          4157.818848,
+          338.422424,
+          11073.959961
+        ],
+        [
+          4128.191895,
+          338.280823,
+          11064.025391
+        ],
+        [
+          4163.360352,
+          338.43158,
+          10979.804688
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-III-10",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "GorkaLoadout",
+      "Units": [],
+      "NumberOfAI": -3,
+      "Behaviour": "LOOP",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.49,
+      "AccuracyMax": 0.6,
+      "ThreatDistanceLimit": 265,
+      "NoiseInvestigationDistanceLimit": 500,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 0,
+      "MaxSpreadRadius": 1,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          3969.197998,
+          369.172424,
+          11720.000977
+        ],
+        [
+          4012.90918,
+          369.48877,
+          11659.573242
+        ],
+        [
+          4096.147949,
+          370.288727,
+          11633.098633
+        ],
+        [
+          4086.467285,
+          379.500122,
+          11716.076172
+        ],
+        [
+          4055.923584,
+          379.385651,
+          11764.611328
+        ],
+        [
+          4017.473145,
+          376.029785,
+          11743.737305
+        ],
+        [
+          4001.895752,
+          375.742462,
+          11773.567383
+        ],
+        [
+          4003.165771,
+          375.669189,
+          11836.222656
+        ],
+        [
+          3968.866943,
+          374.826599,
+          11833.133789
+        ],
+        [
+          3971.785645,
+          375.616821,
+          11776.630859
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-III-11",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "GorkaLoadout",
+      "Units": [],
+      "NumberOfAI": -3,
+      "Behaviour": "ALTERNATE",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.49,
+      "AccuracyMax": 0.6,
+      "ThreatDistanceLimit": 300,
+      "NoiseInvestigationDistanceLimit": 500,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 0,
+      "MaxSpreadRadius": 1,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          7145.520508,
+          130.148773,
+          12719.083008
+        ],
+        [
+          7088.867188,
+          130.838776,
+          12696.925781
+        ],
+        [
+          7066.625,
+          130.921555,
+          12702.933594
+        ],
+        [
+          7061.031738,
+          131.335495,
+          12732.237305
+        ],
+        [
+          7115.555664,
+          131.192749,
+          12737.400391
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-III-12",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "GorkaLoadout",
+      "Units": [],
+      "NumberOfAI": -3,
+      "Behaviour": "ALTERNATE",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.49,
+      "AccuracyMax": 0.6,
+      "ThreatDistanceLimit": 300,
+      "NoiseInvestigationDistanceLimit": 500,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 0,
+      "MaxSpreadRadius": 1,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          8006.618164,
+          339.632294,
+          14633.779297
+        ],
+        [
+          7881.625977,
+          343.569,
+          14717.478516
+        ],
+        [
+          7815.205566,
+          356.041138,
+          14797.108398
+        ],
+        [
+          7733.479492,
+          360.682678,
+          14840.972656
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-IV-1",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "TTSKOLoadout",
+      "Units": [],
+      "NumberOfAI": 3,
+      "Behaviour": "HALT_OR_ALTERNATE",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.7,
+      "AccuracyMax": 0.8,
+      "ThreatDistanceLimit": 500,
+      "NoiseInvestigationDistanceLimit": 700,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 0,
+      "MaxSpreadRadius": 1,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          322.638214,
+          295.132355,
+          9329.356445
+        ],
+        [
+          350.921692,
+          294.762421,
+          9355.375
+        ],
+        [
+          371.819763,
+          294.754272,
+          9394.092773
+        ],
+        [
+          349.973755,
+          294.860504,
+          9406.280273
+        ],
+        [
+          372.808624,
+          294.502258,
+          9431.042969
+        ],
+        [
+          350.48114,
+          294.50589,
+          9445.548828
+        ],
+        [
+          321.046051,
+          294.794373,
+          9425.860352
+        ],
+        [
+          296.912079,
+          294.952454,
+          9383.086914
+        ],
+        [
+          306.99588,
+          295.007141,
+          9341.477539
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-IV-2",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "TTSKOLoadout",
+      "Units": [],
+      "NumberOfAI": 3,
+      "Behaviour": "HALT_OR_ALTERNATE",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.7,
+      "AccuracyMax": 0.8,
+      "ThreatDistanceLimit": 500,
+      "NoiseInvestigationDistanceLimit": 700,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 1,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 0,
+      "MaxSpreadRadius": 1,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          1670.365479,
+          451.756744,
+          14190.604492
+        ],
+        [
+          1703.369019,
+          451.742371,
+          14089.152344
+        ]
+      ]
+    },
+    {
+      "Name": "AI-Tier-IV-3",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "File",
+      "FormationLooseness": 15,
+      "Loadout": "TTSKOLoadout",
+      "Units": [],
+      "NumberOfAI": 2,
+      "Behaviour": "HALT_OR_ALTERNATE",
+      "LootingBehaviour": "WEAPONS | BANDAGES",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 4,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": 0.7,
+      "AccuracyMax": 0.8,
+      "ThreatDistanceLimit": 500,
+      "NoiseInvestigationDistanceLimit": 700,
+      "DamageMultiplier": -1,
+      "DamageReceivedMultiplier": 1,
+      "CanBeTriggeredByAI": 1,
+      "MinDistRadius": -1,
+      "MaxDistRadius": -1,
+      "DespawnRadius": -1,
+      "MinSpreadRadius": 0,
+      "MaxSpreadRadius": 1,
+      "Chance": 1,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          1730.915894,
+          447.52832,
+          13947.612305
+        ],
+        [
+          1802.158325,
+          436.141937,
+          13808.28125
+        ],
+        [
+          1764.79541,
+          434.216644,
+          13667.803711
+        ]
+      ]
+    }
+  ]
+}

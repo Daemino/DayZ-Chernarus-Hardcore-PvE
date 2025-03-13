@@ -1,0 +1,21 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_COMPONENTS",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Hammer",
+    "Currencies": [
+        "expansionbanknoteeuro"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Kits:2",
+        "Navigation:2",
+        "Electronics:2",
+        "Lights:2"
+    ],
+    "Items": {}
+}

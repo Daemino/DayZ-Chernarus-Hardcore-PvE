@@ -1,0 +1,15 @@
+{
+    "M_DATA": [
+        {
+            "m_Name": "Killfeed",
+            "m_URL": "url",
+            "m_deathKillLogs": 1,
+            "m_adminActivityLog": 0,
+            "m_admHitLog": 0,
+            "m_joinLeaveLog": 0,
+            "m_serverStatusLog": 0,
+            "m_serverStatsInterval": 60,
+            "m_simplifiedMessages": 1
+        }
+    ]
+}

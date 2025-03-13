@@ -1,0 +1,20 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Vehicles",
+    "MinRequiredReputation": 2500,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Car",
+    "Currencies": [
+        "expansionbanknoteeuro"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Cars",
+        "Vehicle_Parts:2",
+        "Batteries:2"
+    ],
+    "Items": {}
+}

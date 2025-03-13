@@ -1,0 +1,26 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Building Supplies",
+    "MinRequiredReputation": 3000,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Nails",
+    "Currencies": [
+        "expansionbanknoteeuro"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Tools:2",
+        "Supplies",
+        "Locks:2",
+        "Kits:2",
+        "Navigation:2",
+        "Electronics:2",
+        "Lights:2",
+        "Containers",
+        "Tents"
+    ],
+    "Items": {}
+}

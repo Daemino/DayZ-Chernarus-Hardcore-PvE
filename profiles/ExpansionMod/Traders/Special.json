@@ -1,0 +1,26 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Black Market",
+    "MinRequiredReputation": 125,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Star",
+    "Currencies": [
+        "expansionbanknoteeuro"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "SC_Specs",
+	"Crossbows",
+        "Magazines:3",
+        "Muzzles:3",
+        "Bayonets:3",
+        "Buttstocks:3",
+        "Handguards:3",
+	"Mod_Attachments",
+	"Badges"
+    ],
+    "Items": {}
+}

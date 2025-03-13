@@ -1,0 +1,337 @@
+{
+    "m_Version": 5,
+    "EnableStatusTab": 1,
+    "EnablePartyTab": 0,
+    "EnableServerInfoTab": 1,
+    "EnableServerRulesTab": 1,
+    "EnableTerritoryTab": 0,
+    "EnableBookMenu": 1,
+    "CreateBookmarks": 1,
+    "ShowHaBStats": 1,
+    "ShowPlayerFaction": 0,
+    "RuleCategories": [
+      {
+        "CategoryName": "General",
+        "Rules": [
+          {
+            "RuleParagraph": "1.",
+            "RuleText": "Server is PvE only, killing the other players or being treacherous is prohibited. AI guards weark PINK armbands, and are at pre-determined locations."
+          },
+          {
+            "RuleParagraph": "2.",
+            "RuleText": "Using hack, cheats, 3rd party applications or abusing exploits is forbidden!"
+          },
+          {
+            "RuleParagraph": "3.",
+            "RuleText": "Insulting, slur, toxic behavior is prohibited and will be punished."
+          },
+          {
+            "RuleParagraph": "4.",
+            "RuleText": "Inappropriate behavior, manners, or habits that may harm the others is forbidden. Being kind and friendly is required."
+          },
+          {
+            "RuleParagraph": "5.",
+            "RuleText": "Do not steal/take what is not yours. If any storage/inventory item (barrel, tent, box, car, dead body, ...) has any stuff stored inside, it is considered as taken by someone else. Do not touch it."
+          },
+          {
+            "RuleParagraph": "6.",
+            "RuleText": "Do not block any important public source of loot with base building at Police, Medical or Military zones."
+          },
+          {
+            "RuleParagraph": "7.",
+            "RuleText": "Do not attempt to RAID player bases."
+          },
+          {
+            "RuleParagraph": "8.",
+            "RuleText": "If you can, please change your nickname from game default Survivor to your own."
+          }
+        ]
+      }
+    ],
+    "DisplayServerSettingsInServerInfoTab": 0,
+    "SettingCategories": [],
+    "Links": [
+      {
+        "Name": "Discord",
+        "URL": "https://www.discord.gg/mtr36Nm",
+        "IconName": "Discord",
+        "IconColor": -9270822
+      },
+      {
+        "Name": "Support Us",
+        "URL": "https://www.patreon.com/dayzhardcorepve/about",
+        "IconName": "Patreon",
+        "IconColor": -432044
+      },
+      {
+        "Name": "Steam Group",
+        "URL": "https://steamcommunity.com/groups/dayzhardcorepve",
+        "IconName": "Steam",
+        "IconColor": -14006434
+      },
+      {
+        "Name": "Map Layout",
+        "URL": "https://i.imgur.com/vKo46fN.jpeg",
+        "IconName": "Map",
+        "IconColor": -10515410
+      }
+    ],
+    "Descriptions": [
+      {
+        "CategoryName": "General Information",
+        "Descriptions": [
+          {
+            "DescriptionText": "Player versus Environment (PvE) server represents a modified iteration of the conventional game, incorporating enhancements and intensified gameplay conditions to offer a more challenging and immersive experience. The entire arrangement is designed to offer players additional goals to achieve, a variety of possibilities to explore, all while maintaining the consistent essence of the gaming experience."
+          },
+          {
+            "DescriptionText": "Modified stamina with energy, and sleep level add a nice change how player's weight can be used. Player has to choose between being a scavenger unable to fight due to his heavy weight, or move freely, but unable to carry tons of additional loot he finds. Weapon handling modification represents a bit of realism, when exhaustion can cause much worse accuracy. Full auto fire is less precise, as the mod change the recoil. Expansion AI add a fear factor, players should be aware of it. Also, it prevents from reaching the best loot effortlessly. Risk of loosing the character, and it's loot is essential."
+          },
+          {
+            "DescriptionText": "On the map are no pre-spawned vehicles, or storage items (except protector case, or any minor pouch). These items are end-game benefits, purchasable at North-Easter trader (spawn)."
+          }
+        ]
+      },
+      {
+        "CategoryName": "Temperature / Energy / Weight / Gunplay",
+        "Descriptions": [
+          {
+            "DescriptionText": "Temperature - The server has harsh environment with low temperatures, that will never exceed positive value. Currently it's made of -0°C, to -3°C."
+          },
+          {
+            "DescriptionText": "Sleep & Energy - Player must keep an eye on the 2 bars (Yellow - Energy, Blue - Sleep) next to the general stamina bar. They will deplete over time, depending on current player's activity. To regain the energy bar, player has to remain still for a certain period of time to get rid of the exhaustion. If player will ignore low energy warning, he may end up unconscious. Sleep depletes more slower, but over time player will have to prepare for a sleep. The best conditions to regain full sleep are warm environment, shelter, and night time. With less energy & sleep player's performance will degrade, including vision, movement, consciousness. For sleep use Sleeping animation."
+          },
+          {
+            "DescriptionText": "Weight - Since every item has its empty weight, player will slowly accumulate it as he gains loot, equipment & weaponry. With higher weight, player will be more restricted in his movement speed, and the ability to jump over any obstacle. For game purpose, and playable comfort, player can't carry more than 120 kgs. Fist stage movement penalty is after exceeding 55 kgs."
+          },
+          {
+            "DescriptionText": "Gunplay - Player will have to deal with a different & challenging use of scopes, weapon sway, accuracy, and also recoil. The gunplay is also affected by overall character's performance, buffs & debuffs (freezing, diseases, stamina, energy, weight)."
+          }
+        ]
+      },
+      {
+        "CategoryName": "Survival / Adaptation",
+        "Descriptions": [
+          {
+            "DescriptionText": "Survival - Every player must adapt to the server's environment, seeking for better clothes, having shelter within a safe reach, and also the most important thing avoiding starvation with rapid health loss. During the worst times fishing gonna be your best activity, as well as staying nearby a fireplace to keep yourself warm, and food defrosted. If any player tries to get inland too soon, the environment will happily return such player back to the coast as a freshie. So, keep that in mind."
+          },
+          {
+            "DescriptionText": "Adaptation - Being in warm, and dry conditions are important to being rested. But only during the night time, player can be rested fully. Adapt to the environment, improvise to be prepared, and overcome the very first task that every player has to solve. If players are playing in groups, they may split these tasks, and accomplish them in a shorter period of time. Stay nearby a larger city, as they provide a lot of resources for everyone, so more player meetings would happen."
+          }
+        ]
+      },
+      {
+        "CategoryName": "Chatting / Discord / Greetings",
+        "Descriptions": [
+          {
+            "DescriptionText": "Chatting - Server has a GLOBAL CHAT, so use it for communication, or cooperation against the AI gurads."
+          },
+          {
+            "DescriptionText": "Discord - We do have our discord server. Anyone can join in, and gather necessary information about server hardcore features, as well as discuss anything with the community. Furthermore, players may effectively reach our admins in case of any inquiry, or/and conflict via this discord. Otherwise they may risk, that admin will not be able to reach such player within short period of time. Use the button on the left of this book to be redirected instantly."
+          },
+          {
+            "DescriptionText": "Greetings - Do not forget to greet any player you meet on your journey. Use gestures, voice, global/local chat, or even simply wiggle. Expansion AI does only lean to sides while shooting, in case you encounter them, as well as they are wearing PINK armband. Do not get mismatched for an AI!"
+          }
+        ]
+      },
+      {
+        "CategoryName": "Enemies / Locations",
+        "Descriptions": [
+          {
+            "DescriptionText": "Our server has 4 TIERS of AI enemies, which are deplayed via vanilla loot tiers. Each tier has increased overall difficulty, and equipment. AI at: TIER 1 is Guerilla of Chernarus, TIER 2 is Zagorky Militia, TIER 3 is Chedaki Army, TIER 4 is Freedom PMC."
+          },
+          {
+            "DescriptionText": "Enemy AI - Always be careful who you are shooting at. Do not mismatch another player for an enemy AI. These AI enemies wear always PINK Armband. Each military zone has the AI guards. They do trigger the zombies around, and they attack each other. So, be careful with your approach and prefer distance shooting over CQB combat."
+          },
+          {
+            "DescriptionText": "Enemy AI Locations - In general, AI is guarding each military outpost, or military base. For accurate location map, visit our Discord, or click MAP bookmark in this Book."
+          }
+        ]
+      },
+      {
+        "CategoryName": "Reputation",
+        "Descriptions": [
+          {
+            "DescriptionText": "Our server has an active reputation system represented by 3-stars icon on HUD's bottom-right corner. Each player starts with 0 points. With reputation you can unlock access to the Market."
+          },
+          {
+            "DescriptionText": "Reputation INCREASE: via Killing: AI guard (+10 pts), Military Zombies (+2 pts), Bear (+ 4 pts), Wolf (+2 pts)"
+          },
+          {
+            "DescriptionText": "Reputation DECREASE: Death or Suicide (-200 pts), Killing other Player (-10000 pts & also BAN)"
+          },
+          {
+            "DescriptionText": "Reputation UNLOCKS: Black Market - (forest trader) (100 pts or more), Sell-Only Merchant (125 pts or more), Vehicles/Parts (2500 pts or more), Base Supplies (3000 pts or more)"
+          }
+        ]
+      },
+      {
+        "CategoryName": "Market",
+        "Descriptions": [
+          {
+            "DescriptionText": "Server has 2 main trader/merchant locations. The First one is at main server's spawn, in top right corner of the map. The Second one is in the forest among Lopatino, Krona Castle & Vybor."
+          },
+          {
+            "DescriptionText": "Market at Spawn offers purchasing a Vehicle, or Base Building supplies, personal stash, and P2P trader. Also, there's Sell-only merchant too."
+          },
+          {
+            "DescriptionText": "Main server's currency is Euro bank note. But present are also golden/silver bars, nuggets. Hryvnia banknotes are common item at office location, that are exchangable for euros at any trader's place."
+          }
+        ]
+      }
+    ],
+    "CraftingCategories": [
+      {
+        "CategoryName": "Accessories",
+        "Results": [
+          "armband_",
+          "armband_white",
+          "eyepatch_improvised"
+        ]
+      },
+      {
+        "CategoryName": "Backpacks",
+        "Results": [
+          "courierbag",
+          "furcourierbag",
+          "furimprovisedbag",
+          "improvisedbag",
+          "leathersack_brown"
+        ]
+      },
+      {
+        "CategoryName": "Base-Building",
+        "Results": [
+          "expansionbarbedwirekit",
+          "fencekit",
+          "expansionfloorkit",
+          "expansionhelipadkit",
+          "expansionhescokit",
+          "expansionrampkit",
+          "shelterkit",
+          "expansionstairkit",
+          "territoryflagkit",
+          "expansionwallkit",
+          "watchtowerkit"
+        ]
+      },
+      {
+        "CategoryName": "Camouflage",
+        "Results": [
+          "camonet",
+          "ghillieatt_tan",
+          "ghillieatt_mossy",
+          "ghillieatt_woodland",
+          "ghilliebushrag_tan",
+          "ghilliebushrag_mossy",
+          "ghilliebushrag_woodland",
+          "ghilliehood_tan",
+          "ghilliehood_mossy",
+          "ghilliehood_woodland",
+          "ghilliesuit_tan",
+          "ghilliesuit_mossy",
+          "ghilliesuit_woodland",
+          "ghillietop_tan",
+          "ghillietop_mossy",
+          "ghillietop_woodland"
+        ]
+      },
+      {
+        "CategoryName": "Cooking",
+        "Results": [
+          "fireplace",
+          "firewood",
+          "handdrillkit"
+        ]
+      },
+      {
+        "CategoryName": "Fishing",
+        "Results": [
+          "bait",
+          "bonebait",
+          "bonehook",
+          "improvisedfishingrod"
+        ]
+      },
+      {
+        "CategoryName": "Food",
+        "Results": [
+          "carpfilletmeat",
+          "mackerelfilletmeat",
+          "expansionmilkbottle",
+          "potato",
+          "slicedpumpkin"
+        ]
+      },
+      {
+        "CategoryName": "Horticulture",
+        "Results": [
+          "pepperseeds",
+          "pumpkinseeds",
+          "tomatoseeds",
+          "zucchiniseeds"
+        ]
+      },
+      {
+        "CategoryName": "Lights",
+        "Results": [
+          "longtorch",
+          "torch"
+        ]
+      },
+      {
+        "CategoryName": "Medical Supplies",
+        "Results": [
+          "bloodbagiv",
+          "salinebagiv",
+          "splint"
+        ]
+      },
+      {
+        "CategoryName": "Melee Weapons",
+        "Results": [
+          "nailedbaseballbat",
+          "stoneknife"
+        ]
+      },
+      {
+        "CategoryName": "Storage",
+        "Results": [
+          "woodencrate"
+        ]
+      },
+      {
+        "CategoryName": "Supplies",
+        "Results": [
+          "boarpelt",
+          "burlapsack",
+          "burlapstrip",
+          "longwoodenstick",
+          "expansionlumber1",
+          "expansionlumber1_5",
+          "expansionlumber3",
+          "nails",
+          "netting",
+          "rag",
+          "rope",
+          "sharpwoodenstick",
+          "smallstone",
+          "tannedleather",
+          "woodenplank",
+          "woodenstick"
+        ]
+      },
+      {
+        "CategoryName": "Weapon Modifications",
+        "Results": [
+          "sawedoffizh18shotgun"
+        ]
+      },
+      {
+        "CategoryName": "Weapon Attachments",
+        "Results": [
+          "improvisedsuppressor"
+        ]
+      }
+    ],
+    "EnableCraftingRecipesTab": 0
+  }
